@@ -1,4 +1,4 @@
 # Learning about Version Control
 
 Author: Cary Ling
-Solving merge is easy!
+Solving merge conflicts is easy!
